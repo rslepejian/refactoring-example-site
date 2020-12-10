@@ -1,6 +1,8 @@
-# Project Title
+# Horiseon Homepage Refactor
 
-One Paragraph of project description goes here
+For this project I refactored the Horiseon Homepage css and html documents to make the page's files easier to
+understand and to add accesibility in the form of a webpage title and image alt messages. I changed many of
+the html semantics to make their roles clearer, including changing generic "div" to "aside." 
 
 ## Getting Started
 
@@ -41,7 +43,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://rslepejian.github.io/refactoring-example-site/)
 
 
 ## Authors
