@@ -25,6 +25,8 @@ reflect their usage in the HTML. IDs without unique changes were removed.
 
 * **Raffi Lepejian** 
 
+## Contact Information
+
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/rslepejian)
 - [Link to LinkedIn](https://linkedin.com/in/raffi-lepejian-071876153)
