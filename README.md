@@ -26,5 +26,5 @@ Many redundant classes with the same purpose were combined to reduce clutter.
 
 - [Link to Portfolio Site](#)
 - [Link to Github](https://github.com/rslepejian)
-- [Link to LinkedIn](www.linkedin.com/in/raffi-lepejian-071876153)
+- [Link to LinkedIn](https://linkedin.com/in/raffi-lepejian-071876153)
 
