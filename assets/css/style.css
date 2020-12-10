@@ -38,10 +38,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
 .banner-image {
     height: 800px;
     width: 100%;
@@ -62,7 +58,7 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    clear: both;
+    /* clear: both; */
     float: right;
     width: 20%;
     height: 100%;
@@ -112,7 +108,7 @@ p {
 
 .footer {
     padding: 30px;
-    clear: both;
+    /* clear: both; */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
