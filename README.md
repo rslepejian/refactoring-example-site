@@ -1,9 +1,10 @@
 # Horiseon Homepage Refactor
 
-This project involved refactoring the Horiseon Homepage to make the page's files easier to
+This project involves refactoring the Horiseon Homepage to make the page's files easier to
 understand and to add accesibility in the form of a webpage title and image alt messages. Many of
-the html semantic tags were changed to make their roles clearer, including changing generic "div" to "aside."
-Many redundant classes with the same purpose were combined to reduce clutter.
+the html semantic tags are changed to make their roles clearer, including changing generic "div" to "aside."
+Many redundant classes with the same purpose are combined to reduce clutter. CSS classes are reordered to
+reflect their usage in the HTML. IDs without unique changes were removed.
 
 ## Built With
 
