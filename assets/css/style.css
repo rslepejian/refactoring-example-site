@@ -1,13 +1,15 @@
+/* css reset to remove automatic formatting */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* changes background color to light grey */
 body {
     background-color: #d9dcd6;
 }
 
+/* basic formating and text positioning for header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/* adds exception to recolor the "seo" in header */
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/* formats the title in header to allow navbar to be on same line */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* floats navbar to the right, formats font, size and spacing */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,16 +37,19 @@ body {
     font-size: 20px;
 }
 
+/* allows list to be displayed horizontally in one line */
 li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* sets link text color and prevents underlining and discoloration */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* formats banner image to take up full screen width without stretching */
 .banner-image {
     height: 800px;
     width: 100%;
@@ -49,22 +57,26 @@ a {
     object-fit: cover;
 }
 
+/* class to allow images in article to be floated left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* class to float image in article to right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* class to allow sections in article to be displayed horizontally colinear */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* formatting spacing, size, font, and colors for subsections of article */
 .content-sub {
     margin-bottom: 20px;
     padding: 50px;
@@ -74,15 +86,18 @@ a {
     color: #ffffff;
 }
 
+/* image sizing for subsections of article */
 .content-sub img {
     max-height: 200px;
 }
 
+/* formats title's spacing and font in content sub sections */
 .content-sub h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* formats spacing, size, font and colors for the sidebar */
 .sidebar {
     margin-right: 20px;
     padding: 20px;
@@ -93,28 +108,33 @@ a {
     background-color: #2589bd;
 }
 
+/* formats spacing and font color for sidebar subsections */
 .sidebar-sub {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* formats title's spacing and alignemnt for sidebar*/
 .sidebar-sub h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* formats spacing, size and positioning for images in sidebar */
 .sidebar-sub img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* formats font, spacing and alignment for footer */
 .footer {
     padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
+/* formats font size for madeby message in footer */
 .footer h2 {
     font-size: 20px;
 }
