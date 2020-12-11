@@ -4,7 +4,8 @@ This project involves refactoring the Horiseon Homepage to make the page's files
 understand and to add accesibility in the form of a webpage title and image alt messages. Many of
 the html semantic tags are changed to make their roles clearer, including changing generic "div" to "aside."
 Many redundant classes with the same purpose are combined to reduce clutter. CSS classes are reordered to
-reflect their usage in the HTML. IDs without unique changes were removed.
+reflect their usage in the HTML. IDs without unique changes were removed. Moved main banner image call to
+html for clarity and consistency.
 
 ## Built With
 
